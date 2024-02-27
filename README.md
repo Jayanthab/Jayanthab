@@ -11,11 +11,14 @@
 <h5 align="right">🏢 System Administrator </h5>
 <h6 align="right">🏢 Excelsoft Technologies Pvt Ltd </h5>
     </td>
+    
   </table>
-
+<td>
   <h3 text>OBJECTIVE</h3>
   <h6>To secure an opportunity in a reputed organization, where can enhance my existing professional knowledge skill and gain valuable experience so that I would be able to make positive contribution to the company’s goal and objectives. </h6>
 
+<table>
+  <td width="700">
   <h3>ACADEMICS</h3>
   <UL>
       <li>Mvoc (Software Development) : 2018 Jss Collage Of Arts Commerce Science Ooty Road Mysuru.</li>
@@ -24,9 +27,11 @@
       <li>SSLC : 2011 Govt High School Hadinaru Village Nanjanagud.</li>
       
   </UL>
+  </td>
 
-<h3> TECHNICAL SKILLS</h3>
-  <UL>
+<td width="300">
+  <h3> TECHNICAL SKILLS</h3>
+    <UL>
       <li>Networking</li>
       <li>System Hardware</li>
       <li>Computer Applications</li>
@@ -34,6 +39,10 @@
       <li>Operating Systems</li>
       
   </UL>
+</td>
+  
+  </table>
+
   
 </div>
 
