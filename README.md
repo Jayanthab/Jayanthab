@@ -13,7 +13,28 @@
     </td>
   </table>
 
-  <h3 text>Objective</h3>
+  <h3 text>OBJECTIVE</h3>
+  <h6>To secure an opportunity in a reputed organization, where can enhance my existing professional knowledge skill and gain valuable experience so that I would be able to make positive contribution to the company’s goal and objectives. </h6>
+
+  <h3>ACADEMICS</h3>
+  <UL>
+      <li>Mvoc (Software Development) : 2018 Jss Collage Of Arts Commerce Science Ooty Road Mysuru.</li>
+      <li>BCA (Computer Application) : 2016 Jss Collage Of Arts Commerce Science Ooty Road Mysuru.</li>
+      <li>PUC (PCME) : 2013 Jss Collage Of Arts Commerce Science Ooty Road Mysuru.</li>
+      <li>SSLC : 2011 Govt High School Hadinaru Village Nanjanagud.</li>
+      
+  </UL>
+
+<h3> TECHNICAL SKILLS</h3>
+  <UL>
+      <li>Networking</li>
+      <li>System Hardware</li>
+      <li>Computer Applications</li>
+      <li>Advance MS Office</li>
+      <li>Operating Systems</li>
+      
+  </UL>
+  
 </div>
 
 
